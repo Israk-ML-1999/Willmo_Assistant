@@ -5,3 +5,5 @@ python-multipart
 pydantic
 gtts
 python-dotenv
+openai
+requests
